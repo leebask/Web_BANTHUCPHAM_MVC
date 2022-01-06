@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/ptithcm/bean/Mailer.java=UTF-8
+encoding//src/ptithcm/controller/AdminController.java=UTF-8
+encoding//src/ptithcm/controller/ChangePassController.java=UTF-8
+encoding//src/ptithcm/controller/ForgotPassController.java=UTF-8
+encoding//src/ptithcm/controller/HomeController.java=UTF-8
+encoding//src/ptithcm/controller/HomeNoLoginController.java=UTF-8
+encoding//src/ptithcm/controller/LoginController.java=UTF-8
+encoding//src/ptithcm/controller/ProfileController.java=UTF-8
+encoding//src/ptithcm/controller/RegisterController.java=UTF-8
+encoding//src/ptithcm/controller/UserController.java=UTF-8
+encoding//src/ptithcm/controller/VerifyAccountController.java=UTF-8
+encoding//src/ptithcm/entity/UserEntity.java=UTF-8
